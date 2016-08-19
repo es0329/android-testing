@@ -17,7 +17,7 @@ android {
     buildTypes {
         debug {
             // Run code coverage reports by default on debug builds.
-            // testCoverageEnabled = true
+            testCoverageEnabled = true
         }
     }
 
